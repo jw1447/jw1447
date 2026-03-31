@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>🔭 I’m currently working on a 2D video game project.  <br>🤝 I’m looking to collaborate on creative game development ideas.  <br>👐 I’m looking for help with improving machine learning integration in my code.  <br>🌱 I’m currently learning C++.  <br>💬 Ask me about C++.  
+### Hi there 👋<br><br>🔭 I’m currently working on a AI trading software.  <br>👐 I’m looking for help with improving machine learning integration in my code.  <br>🌱 I’m currently learning C++.  <br>💬 Ask me about C++.  
 
 
 ## 🌐 Socials:
