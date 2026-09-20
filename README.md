@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<strong>EU: </strong>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasw05@icloud.com) 
+<strong>EU: </strong>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasw05@icloud.com) <br>
 <strong>RU: </strong>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasw05@mail.com) 
 
 # 💻 Tech Stack:
